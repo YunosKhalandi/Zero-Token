@@ -38,12 +38,14 @@ Given that the control of the liquidity pool is outside the hands of ZERO creato
 
 # Links:
 
-Contract Address:
+Contract Address: 
 <a href='https://polygonscan.com/token/0x4625726F339f259719de465Be150421Bd231e713'
     target='_blank'>
     0x4625726F339f259719de465Be150421Bd231e713
 </a>
 
+Read ZERO Whitepaper: 
 <a href='https://zero.khalandi.com' target='_blank'>Whitepaper</a>
 
+Contact Us: 
 <a href='https://khalandi.com' target='_blank'>Creater</a>
