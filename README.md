@@ -8,7 +8,7 @@ The creators of the ZERO token do not have the ability to mint this token in any
 amount, and a new token will not be minted until Tether (USDT) is deposited into the liquidity pool.
 
 The token started with an initial supply of 0 tokens, and the creators were obligated to deposit
-1 Tether into the liquidity pool to ensure that the initial price of ZERO was 0.000001 Tether.
+1 Tether into the liquidity pool to mint 1000000 ZERO and to ensure that the initial price of ZERO was 0.000001 Tether.
 
 # Links:
 
